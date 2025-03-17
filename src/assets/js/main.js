@@ -7,7 +7,7 @@ const thumbnailDom = document.querySelector('.carousel .thumbnail');
 const timeDom = document.querySelector('.carousel .time');
 
 const timeRunning = 3000; // Время для анимации переходов (мс)
-const timeAutoNext = 7000; // Время для автоматического переключения слайдов (мс)
+const timeAutoNext = 5000; // Время для автоматического переключения слайдов (мс)
 
 // Обработчики для кнопок
 nextBtn.addEventListener('click', () => {
