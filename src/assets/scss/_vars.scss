@@ -1,0 +1,13 @@
+:root {
+    --font-family: sans;
+
+    --index: calc(1vw + 1vh);
+    // --transition: 1.5s cubic-bezier(.05, .5, 0, 1);
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+}

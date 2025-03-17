@@ -1,0 +1,26 @@
+{
+  "name": "ejukk",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^6.0.2",
+    "autoprefixer": "^10.4.21",
+    "cssnano": "^7.0.6",
+    "postcss": "^8.5.3",
+    "rollup-plugin-visualizer": "^5.14.0",
+    "sass": "^1.85.1",
+    "sharp": "^0.33.5",
+    "svgo": "^3.3.2",
+    "vite": "^6.2.2",
+    "vite-plugin-html-minifier-terser": "^3.8.0",
+    "vite-plugin-image-optimizer": "^1.1.8"
+  },
+  "dependencies": {
+  }
+}
